@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap');
+
+$labelColor: #D8F8F5;
+$font-stack: Montserrat, sans-serif;
+
+.app {
+  label {
+    color: $labelColor;
+    font-family: $font-stack;
+    font-weight: 300;
+  }
+}

@@ -1,0 +1,10 @@
+{
+  // comment
+  title: 'PWA Example',
+  owner: {
+    name: 'Erika Vitela',
+    organization: 'EV',
+    bio: 'EV Cofounder & CEO\n\
+Likes videogames and coffee.',
+  },
+}
